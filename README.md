@@ -4,7 +4,7 @@ These scripts fix the various quality of life issues present with the Getac V110
 ## Dependencies
 - iio-sensor-proxy
 - xorg-xrandr
-- 
+  
 Easy install command:
 ```sudo pacman -S iio-sensory-proxy xorg-xrandr --needed```
 
